@@ -1,0 +1,5 @@
+1. The best way to structure the classes was to design and implement the Card class and Pile class, then design the game around that.
+2. I approached the problem by first creating the classes and testing them thoroughly, then I worked on making the game and the rules.
+3. I had trouble with the shuffle function and the add method of the Pile class. It would through random errors that I couldn't track down.
+4. I learned that lists are very well organized and well structured making it easy to add, retrieve and remove objects from the list.
+5. Things I would improve with this assignment would be to skip the shuffle function. That made the project harder. I would also use UNO cards instead of playing cards.
